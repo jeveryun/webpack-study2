@@ -13,9 +13,7 @@
     "@babel/preset-env": "^7.15.0",
     "tapable": "^2.0.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
